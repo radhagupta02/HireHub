@@ -1,11 +1,17 @@
-# Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI Tutorial 🔥🔥
-## https://www.youtube.com/watch?v=2XF-HgauItk
-![hirrd 1](https://github.com/user-attachments/assets/1da23b25-1f29-4402-be74-03685d9b732d)
+# HireHub - MERN Stack
 
-### Make sure to create a `.env` file with following variables -
+A full-stack job portal website built using MongoDB, Express.js, React.js, and Node.js.
 
-```
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=
-VITE_CLERK_PUBLISHABLE_KEY=
-```
+## Features
+- User Authentication (Login/Register)
+- Role-based dashboards (Job Seekers & Recruiters)
+- Job Postings, Applications, and Management
+- Secure Backend APIs and MongoDB Integration
+- Responsive UI using React
+
+## Tech Stack
+- Frontend: React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT
+
